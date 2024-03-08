@@ -1,0 +1,6 @@
+﻿  Source2.cpp
+F:\oop lab\Project6\Project6\Source2.cpp(27,19): warning C4804: '<=': unsafe use of type 'bool' in operation
+F:\oop lab\Project6\Project6\Source2.cpp(34,19): warning C4804: '<=': unsafe use of type 'bool' in operation
+F:\oop lab\Project6\Project6\Source2.cpp(40,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\oop lab\Project6\Project6\Source2.cpp(45,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Project6.vcxproj -> F:\oop lab\Project6\x64\Debug\Project6.exe

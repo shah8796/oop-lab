@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\oop lab\lab 7\lab 7\Source.cpp(106,12): warning C4930: 'Biggerint s1(void)': prototyped function not called (was a variable definition intended?)
+F:\oop lab\lab 7\lab 7\Source.cpp(81): warning C4715: 'Biggerint::compareto': not all control paths return a value
+  lab 7.vcxproj -> F:\oop lab\lab 7\x64\Debug\lab 7.exe

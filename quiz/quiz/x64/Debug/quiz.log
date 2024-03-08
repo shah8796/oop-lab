@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\oop lab\quiz\quiz\Source.cpp(260,8): warning C4930: 'Month obj(void)': prototyped function not called (was a variable definition intended?)
+  quiz.vcxproj -> F:\oop lab\quiz\x64\Debug\quiz.exe

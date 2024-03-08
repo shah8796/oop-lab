@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\oop lab\practice summer\practice summer\Source.cpp(143): warning C4715: 'Set::isMember': not all control paths return a value
+  practice summer.vcxproj -> F:\oop lab\practice summer\x64\Debug\practice summer.exe

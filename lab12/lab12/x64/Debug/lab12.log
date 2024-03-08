@@ -1,0 +1,19 @@
+﻿  question1.cpp
+F:\oop lab\lab12\lab12\question1.cpp(11,10): warning C4244: 'return': conversion from 't2' to 't1', possible loss of data
+          with
+          [
+              t2=long
+          ]
+          and
+          [
+              t1=char
+          ]
+F:\oop lab\lab12\lab12\question1.cpp(69): message : see reference to function template instantiation 't1 getmax<char,long>(t1,t2)' being compiled
+          with
+          [
+              t1=char,
+              t2=long
+          ]
+F:\oop lab\lab12\lab12\question1.cpp(23): warning C4715: 'getmin<int,long>': not all control paths return a value
+F:\oop lab\lab12\lab12\question1.cpp(13): warning C4715: 'getmax<char,long>': not all control paths return a value
+  lab12.vcxproj -> F:\oop lab\lab12\x64\Debug\lab12.exe

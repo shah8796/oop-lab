@@ -1,0 +1,9 @@
+﻿  customer.cpp
+F:\transport-management-system-main (1)\customer.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\transport-management-system-main (1)\person.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\transport-management-system-main (1)\person.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\transport-management-system-main (1)\customer.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\transport-management-system-main (1)\service.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\transport-management-system-main (1)\customer.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\transport-management-system-main (1)\customer.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project.vcxproj -> F:\oop lab\Project\x64\Debug\Project.exe

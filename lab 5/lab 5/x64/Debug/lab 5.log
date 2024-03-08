@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\oop lab\lab 5\lab 5\Source.cpp(36,51): error C2664: 'event::event(char *[],char *[],char [],char [])': cannot convert argument 1 from 'const char [4]' to 'char *[]'
+F:\oop lab\lab 5\lab 5\Source.cpp(36,11): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+F:\oop lab\lab 5\lab 5\Source.cpp(17,2): message : see declaration of 'event::event'

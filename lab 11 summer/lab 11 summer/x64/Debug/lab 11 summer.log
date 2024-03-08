@@ -1,0 +1,9 @@
+﻿  Source.cpp
+F:\oop lab\lab 11 summer\lab 11 summer\Source.cpp(22,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\oop lab\lab 11 summer\lab 11 summer\Source.cpp(26,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\oop lab\lab 11 summer\lab 11 summer\Source.cpp(62,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\oop lab\lab 11 summer\lab 11 summer\Source.cpp(72,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\oop lab\lab 11 summer\lab 11 summer\Source.cpp(77,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\oop lab\lab 11 summer\lab 11 summer\Source.cpp(99,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\oop lab\lab 11 summer\lab 11 summer\Source.cpp(108,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  lab 11 summer.vcxproj -> F:\oop lab\lab 11 summer\x64\Debug\lab 11 summer.exe

@@ -1,0 +1,5 @@
+﻿  task 2.cpp
+  task 4.cpp
+F:\oop lab\lab 13\lab 13\task 4.cpp(12,14): warning C4101: 'x': unreferenced local variable
+  Generating Code...
+  lab 13.vcxproj -> F:\oop lab\lab 13\x64\Debug\lab 13.exe

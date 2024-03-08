@@ -1,0 +1,15 @@
+﻿  inheritance.cpp
+F:\oop lab\lab 11\lab 11\inheritance.cpp(10,1): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+F:\oop lab\lab 11\lab 11\inheritance.cpp(10,11): warning C4309: 'argument': truncation of constant value
+F:\oop lab\lab 11\lab 11\inheritance.cpp(14,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\oop lab\lab 11\lab 11\inheritance.cpp(34,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\oop lab\lab 11\lab 11\inheritance.cpp(35,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\oop lab\lab 11\lab 11\inheritance.cpp(58,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+Source.obj : error LNK2005: main already defined in inheritance.obj
+F:\oop lab\lab 11\x64\Debug\lab 11.exe : fatal error LNK1169: one or more multiply defined symbols found

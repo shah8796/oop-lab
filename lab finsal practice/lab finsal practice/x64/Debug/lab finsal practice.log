@@ -1,0 +1,4 @@
+﻿  q3.cpp
+F:\oop lab\lab finsal practice\lab finsal practice\q3.cpp(91,46): error C2664: 'universitycampus::universitycampus(char [],char *[],int [],int [])': cannot convert argument 2 from 'char [3][20]' to 'char *[]'
+F:\oop lab\lab finsal practice\lab finsal practice\q3.cpp(91,26): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+F:\oop lab\lab finsal practice\lab finsal practice\q3.cpp(58,2): message : see declaration of 'universitycampus::universitycampus'

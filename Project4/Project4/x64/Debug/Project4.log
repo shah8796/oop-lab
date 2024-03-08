@@ -1,0 +1,15 @@
+﻿  Source.cpp
+F:\oop lab\Project4\Project4\Source.cpp(23,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\oop lab\Project4\Project4\Source.cpp(24,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\oop lab\Project4\Project4\Source.cpp(41,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\oop lab\Project4\Project4\Source.cpp(42,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\oop lab\Project4\Project4\Source.cpp(143,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\oop lab\Project4\Project4\Source.cpp(145,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\oop lab\Project4\Project4\Source.cpp(154,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\oop lab\Project4\Project4\Source.cpp(181,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\oop lab\Project4\Project4\Source.cpp(190,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\oop lab\Project4\Project4\Source.cpp(209,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\oop lab\Project4\Project4\Source.cpp(218,39): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\oop lab\Project4\Project4\Source.cpp(222,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\oop lab\Project4\Project4\Source.cpp(223,66): warning C4305: 'argument': truncation from 'double' to 'float'
+  Project4.vcxproj -> F:\oop lab\Project4\x64\Debug\Project4.exe

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+F:\oop lab\quiz 3\quiz 3\Source.cpp(50,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\oop lab\quiz 3\quiz 3\Source.cpp(94,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\oop lab\quiz 3\quiz 3\Source.cpp(97,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\oop lab\quiz 3\quiz 3\Source.cpp(102,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  quiz 3.vcxproj -> F:\oop lab\quiz 3\x64\Debug\quiz 3.exe

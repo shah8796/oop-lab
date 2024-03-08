@@ -1,0 +1,9 @@
+﻿  Question2.cpp
+  question1.cpp
+F:\oop lab\Assignement2\Assignement2\question1.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\oop lab\Assignement2\Assignement2\question1.cpp(77,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\oop lab\Assignement2\Assignement2\question1.cpp(93,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\oop lab\Assignement2\Assignement2\question1.cpp(116,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+F:\oop lab\Assignement2\Assignement2\question1.cpp(58): warning C4715: 'Bus::startanddrive': not all control paths return a value
+  Assignement2.vcxproj -> F:\oop lab\Assignement2\x64\Debug\Assignement2.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\oop lab\finalpreperation\finalpreperation\Source.cpp(19,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  finalpreperation.vcxproj -> F:\oop lab\finalpreperation\x64\Debug\finalpreperation.exe
